@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #d2bed6;
+
+}
+
+h1 {
+    font-size: 4em;
+    color: rgb(73, 15, 73);
+}
+
+p {
+    font-size: 1em;
+    color: #58555d;
+}
+#kader {
+    background-color: rgb(0, 4, 128);
+    font-weight: bold;
+    font-size: larger;
+    letter-spacing: 0.4px;
+    width: 1000px;
+    padding: 2cm 1cm 2cm 6cm;
+    margin: 1cm auto;
+    border: solid 1px black;
+    border-radius: 10px;
+}
+
+#kader p {
+    color:#FFFFFF;
+}
